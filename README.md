@@ -1,3 +1,3 @@
 # qr_app
 
-A new Flutter project.
+![Screenshot](qr_app.png)

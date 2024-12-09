@@ -9,7 +9,7 @@ import 'package:qr_app/ui/splash_screen.dart';
 void main() {
   runApp(
     DevicePreview(
-      enabled: !kReleaseMode, // Aktifkan hanya di mode debug
+      enabled: true, // Aktifkan hanya di mode debug
       builder: (context) => const MainApp(), // Wrap your app
     ),
   );
